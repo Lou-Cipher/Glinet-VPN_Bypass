@@ -1,7 +1,8 @@
 # vpn-bypass-for-streaming
 
 
-quick an dirty fix to bypass vpn for Amazon Prime and Netflix to integrate in GL-INET Routers via Policy Routing and Crontab ;)
+quick an dirty fix to bypass vpn for Amazon Prime and Netflix to integrate in GL-INET Routers via Policy Routing and Crontab ;) using my generated hosts lists from ... [LouCipher/vpn-bypass-for-streaming](https://github.com/Lou-Cipher/vpn-bypass-for-streaming)
+ 
 
 
 
